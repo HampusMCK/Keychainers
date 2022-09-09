@@ -60,9 +60,14 @@ a {
     .main {
       width: 400px;
 margin: 0;
+font-size: 10px;
+size: 30px;
     }
     .mainh{
 margin: 0;
         width: 400px;
+    }
+    .main img{
+      width: 120px;
     }
 }
