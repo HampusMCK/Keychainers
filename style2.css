@@ -1,6 +1,15 @@
+/*
+Använd aldrig pixlar, utan hellre %
+Använd dig av grid så mycket som möjligt
+Ifall det inte går, använd media queries
+*/
+
+
+
 body {
- background-image: url(./backg.webp);
+ /*background-image: url(./backg.webp);*/
  background-size: cover;
+ background-color: goldenrod;
 }
 
 .mainh {
@@ -32,4 +41,10 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 a {
     text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .main {
+    margin: 0;
+  }  
 }
