@@ -1,0 +1,38 @@
+.mainh {
+    background-color: rgba(46, 174, 130, 0.5);
+    padding-right: 30px;
+    text-align: center;
+    text-decoration: none;
+  margin-left: 300px;
+  margin-right: 300px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+body {
+/*background-image: url(./backg.webp);*/
+background-size: cover;
+background-color: rgb(218, 165, 32);
+}
+
+main {
+    background-color: rgba(0, 255, 255, 0.5);
+    
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Ord{
+    background-color: aqua;
+    padding-left: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    padding-left: 50px;
+}
