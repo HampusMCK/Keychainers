@@ -37,7 +37,7 @@ a {
     padding-left: 50px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
     .main {
 margin: 0;
     }
