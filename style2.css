@@ -43,24 +43,26 @@ a {
     text-decoration: none;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   main{
-    width: 800px;
+    width: 400px;
     margin: 0;
+    font-size: 10px;
   }
   nav{
    
     text-align: center;
   }
   body{
-    width: 800px;
+    width: 400px;
+    font-size: 10px;
   }
     .main {
-      width: 800px;
+      width: 400px;
 margin: 0;
     }
     .mainh{
 margin: 0;
-        width: 800px;
+        width: 400px;
     }
 }
